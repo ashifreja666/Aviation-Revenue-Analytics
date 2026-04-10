@@ -1,4 +1,6 @@
 # AI-Driven Airlines Data Analytics Project ✈️
+<img width="1867" height="744" alt="Screenshot 2026-04-10 162032" src="https://github.com/user-attachments/assets/85b10b23-13e8-4816-8d6d-b82689deda96" />
+
 
 ## Project Overview
 This project is an end-to-end data analytics solution designed to extract actionable business intelligence from raw airline database extracts. By establishing a relational database environment in **PostgreSQL** and connecting it to **Advanced Excel** for dynamic visualization, this project uncovers critical insights regarding revenue generation, fleet utilization, and route performance. 
